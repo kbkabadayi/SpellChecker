@@ -1,1 +1,2 @@
 # SpellChecker
+Freshman group project
